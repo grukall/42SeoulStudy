@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.json": "c",
+		"chrono": "c",
+		"unordered_map": "c"
+	}
+}
